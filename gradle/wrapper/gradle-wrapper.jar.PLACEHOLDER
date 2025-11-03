@@ -1,0 +1,12 @@
+PLACEHOLDER FILE
+
+The gradle-wrapper.jar is a binary file that should be generated when you first
+open the project in Android Studio or run ./gradlew for the first time.
+
+If you need to manually download it:
+1. Visit: https://gradle.org/releases/
+2. Download Gradle 8.2
+3. Extract gradle-wrapper.jar from the distribution
+4. Place it in this directory: gradle/wrapper/gradle-wrapper.jar
+
+Alternatively, Android Studio will automatically download it when you open the project.

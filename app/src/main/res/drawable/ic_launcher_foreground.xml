@@ -1,0 +1,15 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Placeholder launcher icon foreground -->
+    <group android:scaleX="0.5"
+        android:scaleY="0.5"
+        android:translateX="27"
+        android:translateY="27">
+        <path
+            android:fillColor="#3DDC84"
+            android:pathData="M54,27C40.2,27 29,38.2 29,52S40.2,77 54,77S79,65.8 79,52S67.8,27 54,27Z"/>
+    </group>
+</vector>

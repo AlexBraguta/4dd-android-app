@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">4DD</string>
+    <string name="website_url">https://4dd.ro</string>
+
+    <!-- Error messages -->
+    <string name="error_no_internet">No internet connection. Please check your network settings.</string>
+    <string name="error_page_load">Failed to load page. Please try again.</string>
+
+    <!-- Notification -->
+    <string name="notification_channel_id">4dd_notifications</string>
+    <string name="notification_channel_name">4DD Notifications</string>
+    <string name="notification_channel_description">Notifications from 4DD</string>
+    <string name="default_notification_title">4DD</string>
+
+    <!-- Actions -->
+    <string name="action_reload">Reload</string>
+</resources>
